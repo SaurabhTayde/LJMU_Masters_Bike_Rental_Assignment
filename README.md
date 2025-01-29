@@ -1,4 +1,4 @@
-# LJMU_Masters_Bike_Rental_Assignment
+# Linear Regression: LJMU_Masters_Bike_Rental_Assignment
 
 #######################
 ### Problem Statement
